@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1792515128 source:c:\users\minavictor\desktop\ps\solutions\ps\foxandsnake.cpp
+	<iostream>
+	<algorithm>
+
+1792515141 source:c:\users\minavictor\desktop\ps\solutions\ps\translation.cpp
+	<bits/stdc++.h>
+
+1792515478 source:c:\users\minavictor\desktop\ps\solutions\ps\case of zeros and ones.cpp
+	<bits/stdc++.h>
+
