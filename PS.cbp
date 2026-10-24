@@ -32,6 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="2024 and 2023/A - Bear and Big Brother.cpp" />
+		<Unit filename="2024 and 2023/A - Beautiful Matrix.cpp" />
+		<Unit filename="2024 and 2023/A - Gravity Flip.cpp" />
+		<Unit filename="2024 and 2023/A - Team.cpp" />
+		<Unit filename="2024 and 2023/A - Vanya and Fence.cpp" />
 		<Unit filename="2026/A - Anton and Danik.cpp">
 			<Option compile="0" />
 			<Option link="0" />
