@@ -32,11 +32,26 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="2024 and 2023/A - Bear and Big Brother.cpp" />
-		<Unit filename="2024 and 2023/A - Beautiful Matrix.cpp" />
-		<Unit filename="2024 and 2023/A - Gravity Flip.cpp" />
-		<Unit filename="2024 and 2023/A - Team.cpp" />
-		<Unit filename="2024 and 2023/A - Vanya and Fence.cpp" />
+		<Unit filename="2024 and 2023/A - Bear and Big Brother.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A - Beautiful Matrix.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A - Gravity Flip.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A - Team.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A - Vanya and Fence.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/A - Anton and Danik.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -193,7 +208,18 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="2026/B. Bear and Finding Criminals.cpp" />
+		<Unit filename="2026/B. Bear and Finding Criminals.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2026/B. Caisa and Pylons.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2026/B. Sum of Digits.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/B. The 67th 6-7 Integer Problem.cpp">
 			<Option compile="0" />
 			<Option link="0" />
