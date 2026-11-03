@@ -216,6 +216,15 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="2026/B. Coins.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2026/B. Decoding.cpp" />
+		<Unit filename="2026/B. Easter Eggs.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/B. Sum of Digits.cpp">
 			<Option compile="0" />
 			<Option link="0" />
