@@ -52,6 +52,30 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="2024 and 2023/A. Chewbaсca and Number.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A. Counterexample.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A. Garland.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A. IQ Test.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A. Ksenia and Pan Scales.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2024 and 2023/A. Triangular numbers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/A - Anton and Danik.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -220,8 +244,15 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="2026/B. Decoding.cpp" />
+		<Unit filename="2026/B. Decoding.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/B. Easter Eggs.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="2026/B. Effective Approach.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
