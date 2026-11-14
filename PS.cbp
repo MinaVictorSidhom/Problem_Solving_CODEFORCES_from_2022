@@ -256,6 +256,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="2026/B. Lovely Palindromes.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2026/B. Sum of Digits.cpp">
 			<Option compile="0" />
 			<Option link="0" />
